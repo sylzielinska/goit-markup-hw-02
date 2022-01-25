@@ -54,12 +54,14 @@ span {
 }
 .navigation-list-link {
   color: var(--main-color);
+  text-decoration: none;
 }
 .contact-top {
   font-weight: 500;
   line-height: 16px;
   letter-spacing: 0.02em;
-  color: var(--main-color);
+  color: #757575;
+  text-decoration: none;
 }
 .navigation-list-link:hover,
 .navigation-list-link:focus,
