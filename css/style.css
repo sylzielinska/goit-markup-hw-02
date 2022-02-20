@@ -40,18 +40,7 @@ body {
 }
 /* =======END COMPONENTS=== */
 /* HEADER */
-.navigation-logo {
-  font-family: Raleway;
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 31px;
-  letter-spacing: 0.03em;
-  color: #2196f3;
-  text-decoration: none;
-}
-span {
-  color: var(--main-color);
-}
+
 .navigation-list-link {
   color: var(--main-color);
   text-decoration: none;
@@ -159,6 +148,7 @@ footer {
 .portfolio-button {
   background: #f5f4fa;
   border-radius: 4px;
+  cursor: pointer;
 }
 .portfolio-button:hover {
   color: #ffffff;
