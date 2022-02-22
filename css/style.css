@@ -61,6 +61,18 @@ body {
   color: #2196f3;
 }
 
+.navigation-logo {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+span {
+  color: var(--main-color);
+}
 /* END HEADER */
 
 h1 {
@@ -136,6 +148,9 @@ ul {
 
 footer {
   background: #2f303a;
+}
+.span-footer{
+  color: #ffffff;
 }
 .footer-contact {
   text-decoration: none;
